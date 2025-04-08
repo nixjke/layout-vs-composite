@@ -78,4 +78,3 @@
 |`transform`|❌|❌|✅|✅|
 |`opacity`|❌|❌|✅|✅|
 |`width/height`|✅|✅|✅|❌|
-—
